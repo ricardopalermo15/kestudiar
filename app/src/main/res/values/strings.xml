@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">kestudiar</string>
+    <string name="app_name">K-Estudiar</string>
+    <string name="saludo">Hola</string>
+    <string name="usuario">Mauro</string>
+    <string name="bienvenida">Sabes Kestudiar? encuentra tu curso o carrera a medida</string>
+    <string name="categorias">Categorías</string>
+
 </resources>
