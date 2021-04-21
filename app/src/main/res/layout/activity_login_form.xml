@@ -9,8 +9,8 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:layout_editor_absoluteX="111dp"
-        tools:layout_editor_absoluteY="141dp">
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-44dp">
 
         <ImageView
             android:id="@+id/imageView2"
@@ -19,7 +19,7 @@
             app:srcCompat="@drawable/logoke"
             tools:ignore="MissingConstraints"
             tools:layout_editor_absoluteX="96dp"
-            tools:layout_editor_absoluteY="70dp" />
+            tools:layout_editor_absoluteY="46dp" />
 
         <Button
             android:id="@+id/button"
@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:text="@string/boton_registro"
             tools:layout_editor_absoluteX="138dp"
-            tools:layout_editor_absoluteY="667dp" />
+            tools:layout_editor_absoluteY="529dp" />
 
         <EditText
             android:id="@+id/editTextTextPersonName"
@@ -37,7 +37,7 @@
             android:inputType="textPersonName"
             android:text="@string/Nombre"
             tools:layout_editor_absoluteX="100dp"
-            tools:layout_editor_absoluteY="180dp" />
+            tools:layout_editor_absoluteY="148dp" />
 
         <EditText
             android:id="@+id/editTextTextPersonName2"
@@ -47,7 +47,7 @@
             android:inputType="textPersonName"
             android:text="@string/Apellido"
             tools:layout_editor_absoluteX="100dp"
-            tools:layout_editor_absoluteY="271dp" />
+            tools:layout_editor_absoluteY="222dp" />
 
         <EditText
             android:id="@+id/editTextTextEmailAddress"
@@ -57,7 +57,7 @@
             android:hint="E-MAIL"
             android:inputType="textEmailAddress"
             tools:layout_editor_absoluteX="100dp"
-            tools:layout_editor_absoluteY="400dp" />
+            tools:layout_editor_absoluteY="301dp" />
 
         <EditText
             android:id="@+id/editTextTextPassword"
@@ -67,7 +67,7 @@
             android:hint="@string/contraseña"
             android:inputType="textPassword"
             tools:layout_editor_absoluteX="100dp"
-            tools:layout_editor_absoluteY="497dp" />
+            tools:layout_editor_absoluteY="376dp" />
 
         <EditText
             android:id="@+id/editTextTextPassword2"
@@ -76,8 +76,8 @@
             android:ems="10"
             android:hint="@string/repetir_contraseña"
             android:inputType="textPassword"
-            tools:layout_editor_absoluteX="100dp"
-            tools:layout_editor_absoluteY="573dp" />
+            tools:layout_editor_absoluteX="96dp"
+            tools:layout_editor_absoluteY="441dp" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
