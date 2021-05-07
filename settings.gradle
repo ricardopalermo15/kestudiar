@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "kestudiar"
+rootProject.name = "KestudiarV3"
